@@ -33,7 +33,7 @@
 
 ## This bot is mainly created on prefix - if you change this buttons will not work
 
-# List of Commands Available in Zero Two
+# List of Commands Available in RIDER BOTz
   <details>
   <summary>List (Touch Here)</summary>
 <p>
