@@ -1,4 +1,4 @@
-<h1 align="center">🍭 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 🍭<br></h1>
+<h1 align="center">⚡ 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 ⚡<br></h1>
 <p align="center">
   <img src="https://wallpapercave.com/uwp/uwp2350296.jpeg" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" />
 </p>
