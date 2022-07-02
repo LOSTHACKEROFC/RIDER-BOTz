@@ -276,7 +276,7 @@ npm start
 ## Developers
 
 [![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | 
-----|----|----|----|----
+
 [Unknown Rider](https://wa.me/918107768770) | [Chirag Youtuber](https://wa.me/+919536476115) 
 Developer,Base Bot Design  | Developer, Bug Fixes, Modules |
 
