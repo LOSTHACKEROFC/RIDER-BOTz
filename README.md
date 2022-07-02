@@ -277,8 +277,8 @@ npm start
 
 [![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Aaditya](https://github.com/addycracker.png?size=80)](https://github.com/addycracker)
 ----|----|----|----|----
-[Mr Unknown rider](https://wa.me/918107768770) | [Chirag Youtuber](https://wa.me/+919536476115) | [Sam Pandey](https://wa.me/919628516236) | [Issa](https://wa.me/254115175696) | [Aditya](https://wa.me/919681777261)
-Base Bot  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
+[Unknown Rider](https://wa.me/918107768770) | [Chirag Youtuber](https://wa.me/+919536476115) | [Sam Pandey](https://wa.me/919628516236) | [Issa](https://wa.me/254115175696) | [Aditya](https://wa.me/919681777261)
+Developer,Base Bot Design  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
 
 
 
@@ -286,7 +286,7 @@ Base Bot  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | 
 This project is protected by `GNU General Public Licence v3.0` license.
 
 ## Contributing
-Feel free to contribute.
+Feel free to contribute with us regards TEAM RIDERS.
 
 ### Disclaimer
 This is an open source WhatsApp bot based on Multi Device created by [`@SamPandey001`](https://github.com/SamPandey001) & [`@fantox`](https://github.com/FantoX001) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
