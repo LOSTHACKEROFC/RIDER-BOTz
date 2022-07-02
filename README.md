@@ -270,7 +270,7 @@ npm start
 ```
 
 ## Thanks for Everything 
-- [TEAMRIDERS](https://github.com/dgxeon)
+- [TEAMRIDERS](https://github.com/RIDERGORANSH)
 
 
 ## Developers
