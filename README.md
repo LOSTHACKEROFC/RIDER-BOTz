@@ -10,8 +10,8 @@
   
 ![](https://github-readme-stats.vercel.app/api/pin/?username=sampandey001&repo=zero-two-md&theme=dark)
                                                                                                                                              
-### How to enable Zero-Two On your number
--   First Open `Github Link Of Zero Two`
+### How to enable RIDER-BOTz On your number
+-   First Open `Github Link Of RIDER-BOTz`
 -  Click on Fork Button upwards right corner
 -  Click on deploy button and Fill `Config Vars` ,process may take upto 10 min
 - `Open Heroku` > choose app > Resources > Tap on Pencil and Turn on Dynos
@@ -270,7 +270,7 @@ npm start
 ```
 
 ## Thanks for Everything 
-- [XEON](https://github.com/dgxeon)
+- [TEAMRIDERS](https://github.com/dgxeon)
 
 
 ## Developers
