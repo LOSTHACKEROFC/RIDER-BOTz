@@ -1,6 +1,6 @@
 <h1 align="center">🤡 𝙍𝙄𝘿𝙀𝙍 𝘽𝙊𝙏Z 𝗠𝗗 🤡<br></h1>
 <p align="center">
-<a href="https://youtu.be/ko8d0w_qtWA"><img src="https://i.ibb.co/cQpqwCc/rider.jpg" alt="CHIRAG YOUTUBER" width="450" />
+<a href="https://youtu.be/ko8d0w_qtWA"><img src="https://i.ibb.co/cQpqwCc/rider.jpg" alt="CHIRAG YOUTUBER" width="825" />
 
 
 <p align="center"> 
