@@ -1,6 +1,6 @@
 <h1 align="center">🤡 𝙍𝙄𝘿𝙀𝙍 𝘽𝙊𝙏Z 𝗠𝗗 🤡<br></h1>
 <p align="center">
-  <img src="https://wallpapercave.com/uwp/uwp2350296.jpeg" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" />
+  <img src="[https://wallpapercave.com/uwp/uwp2350296.jpeg](https://wallpapercave.com/w/wp11011156)" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" />
 </p>
 
 <p align="center"> 
