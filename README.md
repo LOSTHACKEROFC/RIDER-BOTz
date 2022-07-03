@@ -1,4 +1,4 @@
-<h1 align="center">⚡ 𝙍𝙄𝘿𝙀𝙍 𝘽𝙊𝙏 𝗠𝗗 ⚡<br></h1>
+<h1 align="center">🤡 𝙍𝙄𝘿𝙀𝙍 𝘽𝙊𝙏Z 𝗠𝗗 🤡<br></h1>
 <p align="center">
   <img src="https://wallpapercave.com/uwp/uwp2350296.jpeg" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" />
 </p>
@@ -6,9 +6,9 @@
 <p align="center"> 
   A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
   
-![Total Repo views](https://gpvc.arturio.dev/sampandey001)
+![Total Repo views](https://gpvc.arturio.dev/LOSTHACKEROFC)
   
-![](https://github-readme-stats.vercel.app/api/pin/?username=sampandey001&repo=zero-two-md&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=losthackerofc&repo=rider-botz&theme=dark)
                                                                                                                                              
 ### How to enable RIDER-BOTz On your number
 -   First Open `Github Link Of RIDER-BOTz`
@@ -23,7 +23,7 @@
 
 - `Thank me later.`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LOSTHACKEROFC/RIDER-BOTz)
 
 ## Whatsapp Group
 
@@ -257,8 +257,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Sampandey001/Zero-Two-Md
-cd Zero-Two-Md
+git clone https://github.com/LOSTHACKEROFC/RIDER-BOTz.git
+cd RIDER-BOTz
 npm start
 ```
 
@@ -266,16 +266,16 @@ npm start
 ```
  This bot is not a official bot by Whatsapp INC So if you want to use it then feel free to do so.
  Your WhatsApp Number can be banned by Whatsapp as it is not official
- Zero-Two-MD bot is still in the development stage, so there can be few bugs.Feel free to report that to us.
+ RIDER-BOTZ bot is still in the development stage, so there can be few bugs.Feel free to report that to us.
 ```
 
 ## Thanks for Everything 
-- [TEAMRIDERS](https://github.com/RIDERGORANSH)
-
+- [TEAM RIDERS](https://github.com/RIDERGORANSH)
+- [ LOST HACKER](https://guthub.com/LOSTHACKEROFC)
 
 ## Developers
 
-[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | 
+[![LOST HACKER](https://github.com/LOSTHACKEROFC.png?size=80)](https://github.com/LOSTHACKEROFC) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | 
 
 [Unknown Rider](https://wa.me/918107768770) | [Chirag Youtuber](https://wa.me/+919536476115)
 
@@ -290,7 +290,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 Feel free to contribute with us regards TEAM RIDERS.
 
 ### Disclaimer
-This is an open source WhatsApp bot based on Multi Device created by [`@SamPandey001`](https://github.com/SamPandey001) & [`@fantox`](https://github.com/FantoX001) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
+This is an open source WhatsApp bot based on Multi Device created by [`@LOSTHACKEROFC`](https://github.com/LOSTHACKEROFC) & [`@fantox`](https://github.com/LOSTHACKEROFC) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
 
 ## Help
 Give a ⭐ to this repo if it helped you.
