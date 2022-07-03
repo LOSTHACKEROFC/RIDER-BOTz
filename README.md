@@ -275,7 +275,7 @@ npm start
 
 ## Developers
 
-[![LOST HACKER](https://github.com/LOSTHACKEROFC.png?size=80)](https://github.com/LOSTHACKEROFC) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | 
+[![LOST HACKER](https://github.com/RIDERGORANSH.png?size=80)](https://github.com/RIDERGORANSH) | [![LOST HACKER](https://github.com/LOSTHACKEROFC.png?size=100)](https://github.com/LOSTHACKEROFC) | 
 
 [Unknown Rider](https://wa.me/918107768770) | [Chirag Youtuber](https://wa.me/+919536476115)
 
