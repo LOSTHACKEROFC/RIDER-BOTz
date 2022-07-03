@@ -1,4 +1,4 @@
-<h1 align="center">⚡ 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 ⚡<br></h1>
+<h1 align="center">⚡ 𝙍𝙄𝘿𝙀𝙍 𝘽𝙊𝙏 𝗠𝗗 ⚡<br></h1>
 <p align="center">
   <img src="https://wallpapercave.com/uwp/uwp2350296.jpeg" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" />
 </p>
@@ -277,7 +277,8 @@ npm start
 
 [![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | 
 
-[Unknown Rider](https://wa.me/918107768770) | [Chirag Youtuber](https://wa.me/+919536476115) 
+[Unknown Rider](https://wa.me/918107768770) | [Chirag Youtuber](https://wa.me/+919536476115)
+
 Developer,Base Bot Design  | Developer, Bug Fixes, Modules |
 
 
