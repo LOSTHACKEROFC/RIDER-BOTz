@@ -29,7 +29,7 @@
 
 <a href="https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="[https://chat.whatsapp.com/JvIdTV61RUs4NTmYrtV6qz]"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## This bot is mainly created on prefix - if you change this buttons will not work
 
@@ -238,7 +238,12 @@
   -  ${prefix}repuest (request anything from owner)
   
   
-    And A lot More 
+    🍁 special menu 🍁 
+  -  ${prefix}tqto ( new added feature by chirag youtuber)
+  -  ${prefix}support (new added feature by chirag youtuber)
+  -  ${prefix}sourcelink ( team rider)
+  
+  And A lot More 
   
 
 </details>
@@ -275,7 +280,7 @@ npm start
 
 ## Developers
 
-[![LOST HACKER](https://github.com/RIDERGORANSH.png?size=80)](https://github.com/RIDERGORANSH) | [![LOST HACKER](https://github.com/LOSTHACKEROFC.png?size=100)](https://github.com/LOSTHACKEROFC) | 
+[![ RIDER GORANSH](https://github.com/RIDERGORANSH.png?size=80)](https://github.com/RIDERGORANSH)  | [![LOST HACKER](https://github.com/LOSTHACKEROFC.png?size=100)](https://github.com/LOSTHACKEROFC) |  [![CHIRAG YOUTUBER](https://youtube.com/c/chiragyoutuber.png?size=100)](https://youtube.com/c/chiragyoutuber)  |
 
 [Unknown Rider](https://wa.me/918107768770) | [Chirag Youtuber](https://wa.me/+919536476115)
 
