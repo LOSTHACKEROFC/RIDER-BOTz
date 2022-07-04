@@ -65,7 +65,7 @@ global.sessionName = 'session.sam' //session name
 global.zerotwo = "https://github.com/LOSTHACKEROFC/" //ur gc link
 global.zerotwo2 = "https://github.com/RIDERGORANSH/" //ur gc link2
 global.websitex = "https://youtube.com/c/chiragyoutuber" //ur website
-global.prefa = ['.'] //prefix
+global.prefa = ['','!','.','🐦','🐤','🗿'] //prefix
 global.sp = '🤡' //design
 global.mess = {
     success: 'Done ✓',
