@@ -243,7 +243,7 @@
   -  ${prefix}support (new added feature by chirag youtuber)
   -  ${prefix}sourcelink ( team rider)
   
-  And A lot More 
+  And A lot More.....
   
 
 </details>
@@ -280,7 +280,7 @@ npm start
 
 ## Developers
 
-[![ RIDER GORANSH](https://github.com/RIDERGORANSH.png?size=80)](https://github.com/RIDERGORANSH)  | [![LOST HACKER](https://github.com/LOSTHACKEROFC.png?size=100)](https://github.com/LOSTHACKEROFC) | <a href="youtube.com/c/chiragyoutuber"><img src="https://i.ibb.co/cQpqwCc/rider.jpg" alt="CHIRAG YOUTUBER" width="95" />
+[![ RIDER GORANSH](https://github.com/RIDERGORANSH.png?size=80)](https://github.com/RIDERGORANSH)  | [![LOST HACKER](https://github.com/LOSTHACKEROFC.png?size=100)](https://github.com/LOSTHACKEROFC) | <a href="https://www.youtube.com/channel/UCOYVQIN4SGwaKV2ukY5FgdA"><img src="https://i.ibb.co/cQpqwCc/rider.jpg" alt="CHIRAG YOUTUBER" width="95" />
 
 
 [Unknown Rider](https://wa.me/918107768770) | [Chirag Youtuber](https://wa.me/+919536476115)
@@ -296,7 +296,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 Feel free to contribute with us regards TEAM RIDERS.
 
 ### Disclaimer
-This is an open source WhatsApp bot based on Multi Device created by [`@LOSTHACKEROFC`](https://github.com/LOSTHACKEROFC) & [`@fantox`](https://github.com/LOSTHACKEROFC) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
+This is an open source WhatsApp bot based on Multi Device created by [`@LOSTHACKEROFC`](https://github.com/LOSTHACKEROFC) & [`@TEAM RIDER`](https://github.com/LOSTHACKEROFC) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
 
 ## Help
 Give a ⭐ to this repo if it helped you.
