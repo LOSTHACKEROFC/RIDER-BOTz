@@ -280,7 +280,7 @@ npm start
 
 ## Developers
 
-[![ RIDER GORANSH](https://github.com/RIDERGORANSH.png?size=80)](https://github.com/RIDERGORANSH)  | [![LOST HACKER](https://github.com/LOSTHACKEROFC.png?size=100)](https://github.com/LOSTHACKEROFC) |  [![CHIRAG YOUTUBER](https://youtube.com/c/chiragyoutuber.png?size=100)](https://youtube.com/c/chiragyoutuber)  |
+[![ RIDER GORANSH](https://github.com/RIDERGORANSH.png?size=80)](https://github.com/RIDERGORANSH)  | [![LOST HACKER](https://github.com/LOSTHACKEROFC.png?size=100)](https://github.com/LOSTHACKEROFC) |  [![CHIRAG YOUTUBER](https://www.youtube.com/channel/UCOYVQIN4SGwaKV2ukY5FgdA.png?size=100)](https://www.youtube.com/channel/UCOYVQIN4SGwaKV2ukY5FgdA)  |
 
 [Unknown Rider](https://wa.me/918107768770) | [Chirag Youtuber](https://wa.me/+919536476115)
 
